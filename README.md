@@ -50,7 +50,7 @@ Infinite Cube Runner is a simple 3D game where you control a cube to collect coi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shashank01729/Infinite-Runner-Game.git
+   git clone https://github.com/devendeyadav1234/final-project-game-development-
    ```
 2. **Open the project in Unity:**
 
